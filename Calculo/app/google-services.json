@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483281210492",
+    "firebase_url": "https://catex-8faba.firebaseio.com",
+    "project_id": "catex-8faba",
+    "storage_bucket": "catex-8faba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483281210492:android:ec551db6066d4cc4",
+        "android_client_info": {
+          "package_name": "softbox.com.catex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483281210492-73iebec800maljb29fspd5iep6o0kcgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GOihsjyF518feQXbNwifDKUnlodxAz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
